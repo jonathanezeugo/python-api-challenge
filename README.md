@@ -10,11 +10,9 @@ Here are some observable trends from Part 1:
 3.	Latitude has no significant relationship with cloudiness and wind speed in both hemispheres.  There is a stronger relationship between latitude and humidity in the Northern hemisphere which could issue from low temperatures and higher condensation. 
 4.	A higher proportion of the cities generated from the data are in the Northern hemisphere which may relate to that domain being preferred for human habitation, especially since it appears to have more landmass.
 
-
-<<<<<<< HEAD
 For the Part 2 or VacationPy HW, the Hotels that fall within the ideal weather conditions are mostly in India. The data and maps helped to provide this conclusion. All relevant files are in the Python_API_Challenge_Files folder.
 =======
 Please note that updated pictures for the VacationPy are in the VacationPy folder. I didn't have time to arrange the HW. I apologize, but I hope it can be sorted. Thanks
 
 The most updated VacationPy and WeatherPy files - i.e. WeatherPy_4 and VacationPy_4 are the most updated HW files. 
->>>>>>> c611347401c9949436918ec1535f4a3b0a8e4fb9
+
