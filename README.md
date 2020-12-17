@@ -12,3 +12,5 @@ Here are some observable trends from Part 1:
 
 
 Please note that updated pictures for the VacationPy are in the VacationPy folder. I didn't have time to arrange the HW. I apologize, but I hope it can be sorted. Thanks
+
+The most updated VacationPy and WeatherPy files - i.e. WeatherPy_4 and VacationPy_4 are the most updated HW files. 
